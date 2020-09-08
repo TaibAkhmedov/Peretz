@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Peretz</string>
+    <string name="toolbar_text">Peretz</string>
+    <string name="shop_button_text">Перейти к покупкам</string>
+    <string name="food_title">Название блюда</string>
+    <string name="food_description">Описание блюда></string>
+    <string name="food_price">₽</string>
+    <string name="food_count">4</string>
+
+</resources>
